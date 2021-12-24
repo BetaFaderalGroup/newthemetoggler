@@ -188,7 +188,7 @@ body.active{
     display: inline-block;
     border-radius: 5px;
     padding: 10px 30px;
-    color: white;
+    color: var(--bg);
     background: var(--main-color);
     font-size: 18px;
 }
