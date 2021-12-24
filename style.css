@@ -185,6 +185,7 @@ body.active{
 
 .container .content .btn{
     margin-top: 10px;
+    font-weight: bolder;
     display: inline-block;
     border-radius: 5px;
     padding: 10px 30px;
