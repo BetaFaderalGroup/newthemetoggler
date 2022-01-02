@@ -175,7 +175,7 @@ body.active{
 }
 
 .container .content p span{
-    color: red;
+    color: var(--main-color);
     font-size: 20px;
     font-weight: bold;
     text-transform: initial;
